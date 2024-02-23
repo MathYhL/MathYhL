@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yiheng Liu@NPU
-- 👀 I’m interested in Geometric Topology.
+- 👀 I’m interested in Geometric Topology and Differential Geometry.
 - 🌱 I’m currently learning Some Differential Geometry and conducting some research
 - 📃 I’m looking to learn Some Algebraic Geometry in the future.
 - 📫 You can reach me by E-mail:lyhmath2001@163.com
